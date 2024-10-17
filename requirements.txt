@@ -6,3 +6,4 @@ psycopg2-binary==2.9.3
 bcrypt==4.2.0
 models==0.9.3
 pydantic==2.9.2
+base==0.0.0
